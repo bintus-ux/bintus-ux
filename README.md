@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezerike Caleb</h1>
-[![An image of @bintusux's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bintusux)](https://holopin.io/@bintusux)
+[![An image of @bintusux's Holopin badges, which is a link to view their full Holopin profile]
 <h3 align="center">A passionate frontend developer from Imo State Nigeria.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bintus-ux" alt="bintus-ux" /></a> </p>
